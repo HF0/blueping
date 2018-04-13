@@ -1,5 +1,8 @@
 # BluePing
 
+![HM-10 module connected to a PC](./hm-10.jpg)
+
+
 Simple bluetooth tracker implemented using Python 3
 
 This is just a demo to raise awareness on the dangers of having periocal-beaconing devices such as current wearable fitness tracker. 
