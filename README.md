@@ -13,7 +13,7 @@ The program uses dependency injection
 
 # Installation
 
-1. pip install -r requirements (if you have problems in windows you might need to install a newer version of pip. E.g.: 10.0.0.dev0)
+1. pip install -r requirements (use pip v10 or newer)
 2. Connect HM-10 to a serial using for example a xbee explorer (gnd, vcc, tx and rx)
 3. Make sure AT+ROLE and and AT+IMME are set to 1 in HM-10 (central bluetooth role)
 
